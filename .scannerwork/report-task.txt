@@ -1,0 +1,6 @@
+projectKey=SecurityTesting
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=SecurityTesting
+ceTaskId=cc68c575-9c3d-4052-949c-891b0cb55ec4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=cc68c575-9c3d-4052-949c-891b0cb55ec4
